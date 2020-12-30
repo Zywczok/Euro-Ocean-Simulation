@@ -1,0 +1,11 @@
+git add *  #Alles, was in dem Ordner ist
+git add <name des geänderten objekts>.<endung>
+git commit  #Änderungen mitteilen (für alle sichtbar)
+git push #dann enter :D
+
+git add *
+git commit
+git push
+
+#meinen Ordner aktualisieren:
+git pull
